@@ -18,6 +18,7 @@ angular
     'ngTouch',
     'ui.sortable'
   ])
+  
   .config(function ($routeProvider) {
     $routeProvider
       .when('/', {
